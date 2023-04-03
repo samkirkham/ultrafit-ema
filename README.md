@@ -6,4 +6,4 @@ This is a simple 3D-printable plastic triangle that fits onto the Articulate Ins
 * the .slt file is the stereolithography file, which can be opened and edited in CAD software
 * the .print is a convenience file that can be used to print the triangle directly using MakerBot Desktop
 
-3D design by [Jack Collins](https://github.com/94jackaroo) and [Sam Kirkham](https://github.com/samkirkham)
+If you use this in your research, please cite the following paper: Kirkham, Sam, Patrycja Strycharczuk, Emily Gorman, Takayuki Nagamine & Alan Wrench. 2023. Co-registration of high-speed ultrasound and electromagnetic articulography for speech production research. Proceedings of the 20th International Congress of Phonetic Sciences 1-5.
