@@ -7,4 +7,6 @@ This is a simple 3D-printable plastic triangle that fits onto the Articulate Ins
 * the .print is a convenience file that can be used to print the triangle directly using MakerBot Desktop
 
 If you use this in your research, please cite the following paper:
-* Kirkham, Sam, Patrycja Strycharczuk, Emily Gorman, Takayuki Nagamine & Alan Wrench. 2023. Co-registration of simultaneous high-speed ultrasound and electromagnetic articulography for speech production research. *Proceedings of the 20th International Congress of Phonetic Sciences*.
+* Kirkham, Sam, Patrycja Strycharczuk, Emily Gorman, Takayuki Nagamine & Alan Wrench. 2023. Co-registration of simultaneous high-speed ultrasound and electromagnetic articulography for speech production research. *Proceedings of the 20th International Congress of Phonetic Sciences* 942-946.
+
+You can read the above paper [here](https://samkirkham.github.io/pdf/kirkham_etal2023.pdf).
